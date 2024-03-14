@@ -12,17 +12,19 @@ from ...extras.constants import IGNORE_INDEX
 
 if TYPE_CHECKING:
     from transformers import PreTrainedModel
-
+    
+import deepspeed
+deepspeed.ops.op_builder.CPUAdamBuilder().load()
 
 class CustomDPOTrainer(DPOTrainer):
     def __init__(
         self,
         beta: float,
-        loss_type: Literal["sigmoid", "hinge", "ipo", "kto_pair"],
         ftx_gamma: float,
         model: Union["PreTrainedModel", torch.nn.Module],
         ref_model: Optional[Union["PreTrainedModel", torch.nn.Module]] = None,
         disable_dropout: Optional[bool] = True,
+        loss_type: Optional[Literal["sigmoid", "hinge", "ipo", "kto_pair"]] = "sigmoid",
         **kwargs,
     ):
         if disable_dropout:

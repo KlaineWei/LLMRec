@@ -1,0 +1,500 @@
+{"label": "< Name:8 Heads in a Duffel Bag Year:1997 Genre:Comedy > ", "predict": "< Name:Magnolia Year:1999 Genre:Drama > "}
+{"label": "< Name:Final Destination Year:2000 Genre:Drama Thriller > ", "predict": "< Name:Little Giants Year:1994 Genre:Children's Comedy > "}
+{"label": "< Name:It Takes Two Year:1995 Genre:Comedy > ", "predict": "< Name:Love and Death Year:1975 Genre:Comedy Drama > "}
+{"label": "< Name:Straight Story, The Year:1999 Genre:Drama > ", "predict": "< Name:Wonder Boys Year:2000 Genre:Drama > "}
+{"label": "< Name:Lethal Weapon 3 Year:1992 Genre:Action Comedy Crime Drama > ", "predict": "< Name:Spanking the Monkey Year:1994 Genre:Comedy Drama > "}
+{"label": "< Name:Island of Dr. Moreau, The Year:1996 Genre:Sci-Fi Thriller > ", "predict": "< Name:Little Voice Year:1998 Genre:Comedy Drama Musical > "}
+{"label": "< Name:Sneakers Year:1992 Genre:Crime Drama Sci-Fi > ", "predict": "< Name:Scarface Year:1983 Genre:Action Crime Drama > "}
+{"label": "< Name:Requiem for a Dream Year:2000 Genre:Drama > ", "predict": "< Name:Sunset Blvd. Year:1950 Genre:Drama Film-Noir > "}
+{"label": "< Name:Red Rock West Year:1992 Genre:Thriller > ", "predict": "< Name:Red Rock West Year:1992 Genre:Thriller > "}
+{"label": "< Name:Stir of Echoes Year:1999 Genre:Thriller > ", "predict": "< Name:The Thin Red Line Year:1998 Genre:Drama War > "}
+{"label": "< Name:Trading Places Year:1983 Genre:Comedy > ", "predict": "< Name:Godfather, The Year:1972 Genre:Crime Drama > "}
+{"label": "< Name:For Love of the Game Year:1999 Genre:Comedy Drama > ", "predict": "< Name:Lord of the Rings: The Fellowship of the Ring Year:2001 Genre:Action Adventure Fantasy > "}
+{"label": "< Name:Mosquito Coast, The Year:1986 Genre:Drama > ", "predict": "< Name:My Best Friend's Wedding Year:1997 Genre:Comedy > "}
+{"label": "< Name:Glengarry Glen Ross Year:1992 Genre:Drama > ", "predict": "< Name:Pitch Black Year:2000 Genre:Action Sci-Fi > "}
+{"label": "< Name:Fish Called Wanda, A Year:1988 Genre:Comedy > ", "predict": "< Name:Birdcage, The Year:1996 Genre:Comedy > "}
+{"label": "< Name:Gladiator Year:2000 Genre:Action Drama > ", "predict": "< Name:Titan A.E. Year:2000 Genre:Animation Children's Sci-Fi > "}
+{"label": "< Name:Sixth Sense, The Year:1999 Genre:Thriller > ", "predict": "< Name:Waterboy, The Year:1998 Genre:Comedy > "}
+{"label": "< Name:Romeo Must Die Year:2000 Genre:Action Romance > ", "predict": "< Name:Mission: Impossible 2 Year:2000 Genre:Action Thriller > "}
+{"label": "< Name:Oliver! Year:1968 Genre:Musical > ", "predict": "< Name:Cinderella Year:1950 Genre:Animation Children's Musical > "}
+{"label": "< Name:eXistenZ Year:1999 Genre:Action Sci-Fi Thriller > ", "predict": "< Name:eXistenZ Year:1999 Genre:Action Sci-Fi Thriller > "}
+{"label": "< Name:Rushmore Year:1998 Genre:Comedy > ", "predict": "< Name:Sweet Home Alabama Year:2002 Genre:Comedy Romance > "}
+{"label": "< Name:Clear and Present Danger Year:1994 Genre:Action Adventure Thriller > ", "predict": "< Name:Honey, I Shrunk the Kids Year:1989 Genre:Adventure Children's Comedy Fantasy Sci-Fi > "}
+{"label": "< Name:Taking of Pelham One Two Three, The Year:1974 Genre:Action > ", "predict": "< Name:Dances with Wolves Year:1990 Genre:Drama Western > "}
+{"label": "< Name:Galaxy Quest Year:1999 Genre:Adventure Comedy Sci-Fi > ", "predict": "< Name:Little Giants Year:1994 Genre:Comedy > "}
+{"label": "< Name:Moonraker Year:1979 Genre:Action Romance Sci-Fi > ", "predict": "< Name:Star Trek IV: The Voyage Home Year:1986 Genre:Action Adventure Sci-Fi > "}
+{"label": "< Name:There's Something About Mary Year:1998 Genre:Comedy > ", "predict": "< Name:Joe Versus the Volcano Year:1990 Genre:Comedy Romance > "}
+{"label": "< Name:Glengarry Glen Ross Year:1992 Genre:Drama > ", "predict": "< Name:Brazil Year:1985 Genre:Comedy Sci-Fi > "}
+{"label": "< Name:Red Violin, The (Le Violon rouge) Year:1998 Genre:Drama Mystery > ", "predict": "< Name:Career Opportunities Year:1991 Genre:Comedy > "}
+{"label": "< Name:Ghost in the Shell (Kokaku kidotai) Year:1995 Genre:Animation Sci-Fi > ", "predict": "< Name:Batman Year:1989 Genre:Action Crime Superhero > "}
+{"label": "< Name:Insider, The Year:1999 Genre:Drama > ", "predict": "< Name:Pink Panther, The Year:1963 Genre:Comedy Crime > "}
+{"label": "< Name:Star Wars: Episode I - The Phantom Menace Year:1999 Genre:Action Adventure Fantasy Sci-Fi > ", "predict": "< Name:Battlefield Earth Year:2000 Genre:Action Sci-Fi > "}
+{"label": "< Name:Goonies, The Year:1985 Genre:Adventure Children's Fantasy > ", "predict": "< Name:Dead Poets Society Year:1989 Genre:Drama > "}
+{"label": "< Name:Indiana Jones and the Temple of Doom Year:1984 Genre:Action Adventure > ", "predict": "< Name:House of Yes Year:1997 Genre:Comedy > "}
+{"label": "< Name:Judge Dredd Year:1995 Genre:Action Adventure Sci-Fi > ", "predict": "< Name:Lost World: Jurassic Park, The Year:1997 Genre:Action Adventure Sci-Fi Thriller > "}
+{"label": "< Name:Mrs. Miniver Year:1942 Genre:Drama War > ", "predict": "< Name:Splash Year:1984 Genre:Comedy Romance > "}
+{"label": "< Name:Cradle Will Rock, The Year:1999 Genre:Drama > ", "predict": "< Name:Lion King, The Year:1994 Genre:Animation Adventure Children's > "}
+{"label": "< Name:I Saw What You Did Year:1965 Genre:Thriller > ", "predict": "< Name:Fantastic Voyage Year:1966 Genre:Sci-Fi > "}
+{"label": "< Name:Maltese Falcon, The Year:1941 Genre:Film-Noir Mystery > ", "predict": "< Name:Raging Bull Year:1980 Genre:Drama > "}
+{"label": "< Name:Following Year:1998 Genre:Drama > ", "predict": "< Name:A.I. Artificial Intelligence Year:2001 Genre:Sci-Fi > "}
+{"label": "< Name:Sleepwalkers Year:1992 Genre:Horror > ", "predict": "< Name:Critters 2: The Main Course Year:1988 Genre:Horror > "}
+{"label": "< Name:Road Trip Year:2000 Genre:Comedy > ", "predict": "< Name:Shanghai Noon Year:2000 Genre:Action > "}
+{"label": "< Name:Fish Called Wanda, A Year:1988 Genre:Comedy > ", "predict": "< Name:Rocky Horror Picture Show, The Year:1975 Genre:Comedy Musical > "}
+{"label": "< Name:Galaxy Quest Year:1999 Genre:Adventure Comedy Sci-Fi > ", "predict": "< Name:Galaxy Quest Year:1999 Genre:Adventure Comedy Sci-Fi > "}
+{"label": "< Name:Dead Calm Year:1989 Genre:Thriller > ", "predict": "< Name:Blow Year:2001 Genre:Crime Drama > "}
+{"label": "< Name:Sum of Us, The Year:1994 Genre:Comedy > ", "predict": "< Name:Blazing Saddles Year:1974 Genre:Comedy Western > "}
+{"label": "< Name:Rain Man Year:1988 Genre:Drama > ", "predict": "< Name:Eat Drink Man Woman Year:1994 Genre:Comedy Drama > "}
+{"label": "< Name:Patriot, The Year:2000 Genre:Action Drama War > ", "predict": "< Name:The Patriot Year:2000 Genre:Action Drama War > "}
+{"label": "< Name:Perfect Storm, The Year:2000 Genre:Action Adventure Thriller > ", "predict": "< Name:Chocolat Year:2000 Genre:Drama > "}
+{"label": "< Name:Moonstruck Year:1987 Genre:Comedy > ", "predict": "< Name:Sling Blade Year:1996 Genre:Drama > "}
+{"label": "< Name:Down to You Year:2000 Genre:Comedy Romance > ", "predict": "< Name:Felix and Meira Year:2014 Genre:Drama Romance > "}
+{"label": "< Name:Fisher King, The Year:1991 Genre:Comedy Drama Romance > ", "predict": "< Name:Far from Heaven Year:2002 Genre:Drama > "}
+{"label": "< Name:Animal House Year:1978 Genre:Comedy > ", "predict": "< Name:Dog Day Afternoon Year:1975 Genre:Drama > "}
+{"label": "< Name:Chuck & Buck Year:2000 Genre:Comedy Drama > ", "predict": "< Name:Chuck & Buck Year:2000 Genre:Comedy Drama > "}
+{"label": "< Name:Star Wars: Episode I - The Phantom Menace Year:1999 Genre:Action Adventure Fantasy Sci-Fi > ", "predict": "< Name:Fugitive, The Year:1993 Genre:Action Thriller > "}
+{"label": "< Name:Maverick Year:1994 Genre:Action Comedy Western > ", "predict": "< Name:Sudden Death Year:1995 Genre:Action Thriller > "}
+{"label": "< Name:North by Northwest Year:1959 Genre:Drama Thriller > ", "predict": "< Name:North by Northwest Year:1959 Genre:Drama Thriller > "}
+{"label": "< Name:Pawnbroker, The Year:1965 Genre:Drama > ", "predict": "< Name:Dog Day Afternoon Year:1975 Genre:Crime Drama > "}
+{"label": "< Name:Prince of the City Year:1981 Genre:Drama > ", "predict": "< Name:Pleasantville Year:1998 Genre:Drama Romance > "}
+{"label": "< Name:Welcome to the Dollhouse Year:1995 Genre:Comedy Drama > ", "predict": "< Name:Blast from the Past Year:1999 Genre:Comedy Romance > "}
+{"label": "< Name:Fistful of Dollars, A Year:1964 Genre:Action Western > ", "predict": "< Name:Treasure of the Sierra Madre Year:1948 Genre:Adventure > "}
+{"label": "< Name:Casino Year:1995 Genre:Drama Thriller > ", "predict": "< Name:Falling Down Year:1993 Genre:Drama > "}
+{"label": "< Name:Legend Year:1985 Genre:Adventure Fantasy Romance > ", "predict": "< Name:Aliens Year:1986 Genre:Action Sci-Fi > "}
+{"label": "< Name:Who Framed Roger Rabbit? Year:1988 Genre:Adventure Animation Film-Noir > ", "predict": "< Name:Thomas Crown Affair, The Year:1999 Genre:Action Thriller > "}
+{"label": "< Name:Highlander Year:1986 Genre:Action Adventure > ", "predict": "< Name:Way of the Dragon Year:1972 Genre:Action > "}
+{"label": "< Name:Tommy Year:1975 Genre:Drama Musical > ", "predict": "< Name:Airplane! Year:1980 Genre:Comedy > "}
+{"label": "< Name:Sweet and Lowdown Year:1999 Genre:Comedy Drama > ", "predict": "< Name:Pink Panther, The Year:1963 Genre:Comedy Crime Mystery > "}
+{"label": "< Name:Hot Shots! Part Deux Year:1993 Genre:Action Comedy War > ", "predict": "< Name:Lethal Weapon 3 Year:1992 Genre:Action Comedy > "}
+{"label": "< Name:My Fair Lady Year:1964 Genre:Musical Romance > ", "predict": "< Name:Star Wars: Episode VI - Return of the Jedi Year:1983 Genre:Action Adventure Drama Sci-Fi War > "}
+{"label": "< Name:Leaving Las Vegas Year:1995 Genre:Drama Romance > ", "predict": "< Name:Babe Year:1995 Genre:Children's Comedy > "}
+{"label": "< Name:Safe Year:1995 Genre:Thriller > ", "predict": "< Name:Pulp Fiction Year:1994 Genre:Crime Drama > "}
+{"label": "< Name:Thing, The Year:1982 Genre:Action Horror Sci-Fi Thriller > ", "predict": "< Name:Fugitive, The Year:1993 Genre:Action Thriller > "}
+{"label": "< Name:Goodbye Girl, The Year:1977 Genre:Comedy Romance > ", "predict": "< Name:Four Weddings and a Funeral Year:1994 Genre:Comedy Romance > "}
+{"label": "< Name:Full Monty, The Year:1997 Genre:Comedy > ", "predict": "< Name:Liar Liar Year:1997 Genre:Comedy > "}
+{"label": "< Name:Teaching Mrs. Tingle Year:1999 Genre:Comedy Thriller > ", "predict": "< Name:Sweet and Lowdown Year:1999 Genre:Comedy Drama > "}
+{"label": "< Name:Bowfinger Year:1999 Genre:Comedy > ", "predict": "< Name:Airplane! Year:1980 Genre:Comedy > "}
+{"label": "< Name:Jack Frost Year:1998 Genre:Comedy Drama > ", "predict": "< Name:South Park: Bigger, Longer & Uncut Year:1999 Genre:Animation Children's Comedy > "}
+{"label": "< Name:Ferris Bueller's Day Off Year:1986 Genre:Comedy > ", "predict": "< Name:House of Games Year:1987 Genre:Drama Thriller > "}
+{"label": "< Name:Shakespeare in Love Year:1998 Genre:Comedy Romance > ", "predict": "< Name:Hudsucker Proxy, The Year:1994 Genre:Comedy > "}
+{"label": "< Name:Young Guns II Year:1990 Genre:Action Comedy Western > ", "predict": "< Name:Tango and Cash Year:1989 Genre:Action Comedy Crime > "}
+{"label": "< Name:Blowup Year:1966 Genre:Drama Mystery > ", "predict": "< Name:Alien Year:1979 Genre:Sci-Fi Thriller > "}
+{"label": "< Name:Donnie Brasco Year:1997 Genre:Crime Drama > ", "predict": "< Name:Lethal Weapon 3 Year:1992 Genre:Action Comedy > "}
+{"label": "< Name:Speed Year:1994 Genre:Action Romance Thriller > ", "predict": "< Name:Green Mile, The Year:1999 Genre:Drama Thriller > "}
+{"label": "< Name:Kolya Year:1996 Genre:Comedy > ", "predict": "< Name:Romance & Cigarettes Year:2005 Genre:Comedy > "}
+{"label": "< Name:Friday Year:1995 Genre:Comedy > ", "predict": "< Name:Moulin Rouge! Year:2001 Genre:Musical Romance > "}
+{"label": "< Name:Chinatown Year:1974 Genre:Film-Noir Mystery Thriller > ", "predict": "< Name:Casablanca Year:1942 Genre:Drama Romance War > "}
+{"label": "< Name:Jurassic Park Year:1993 Genre:Action Adventure Sci-Fi > ", "predict": "< Name:Mars Attacks! Year:1996 Genre:Action Sci-Fi > "}
+{"label": "< Name:Star Trek: First Contact Year:1996 Genre:Action Adventure Sci-Fi > ", "predict": "< Name:Godfather: Part II, The Year:1974 Genre:Crime Drama > "}
+{"label": "< Name:River Runs Through It, A Year:1992 Genre:Drama > ", "predict": "< Name:A River Runs Through It Year:1992 Genre:Drama > "}
+{"label": "< Name:Blues Brothers 2000 Year:1998 Genre:Action Comedy Musical > ", "predict": "< Name:Selena Year:1997 Genre:Drama Musical > "}
+{"label": "< Name:Galaxy Quest Year:1999 Genre:Adventure Comedy Sci-Fi > ", "predict": "< Name:Interview with the Vampire Year:1994 Genre:Drama Horror > "}
+{"label": "< Name:Star Trek VI: The Undiscovered Country Year:1991 Genre:Action Adventure Sci-Fi > ", "predict": "< Name:Footloose Year:1984 Genre:Drama > "}
+{"label": "< Name:Serpico Year:1973 Genre:Crime Drama > ", "predict": "< Name:Porky's 2 Year:1983 Genre:Comedy > "}
+{"label": "< Name:Wrong Trousers, The Year:1993 Genre:Animation Comedy > ", "predict": "< Name:Mrs. Doubtfire Year:1993 Genre:Comedy > "}
+{"label": "< Name:Talented Mr. Ripley, The Year:1999 Genre:Drama Mystery Thriller > ", "predict": "< Name:Darkman Year:1990 Genre:Action Sci-Fi Thriller > "}
+{"label": "< Name:Usual Suspects, The Year:1995 Genre:Crime Thriller > ", "predict": "< Name:Fargo Year:1996 Genre:Crime Drama Thriller > "}
+{"label": "< Name:Girlfight Year:2000 Genre:Drama > ", "predict": "< Name:Taxi Year:1998 Genre:Comedy Drama > "}
+{"label": "< Name:Messenger: The Story of Joan of Arc, The Year:1999 Genre:Drama War > ", "predict": "< Name:Rat Year:1998 Genre:Comedy Drama > "}
+{"label": "< Name:Maverick Year:1994 Genre:Action Comedy Western > ", "predict": "< Name:Mystery Men Year:1999 Genre:Action Adventure Comedy > "}
+{"label": "< Name:Slums of Beverly Hills, The Year:1998 Genre:Comedy > ", "predict": "< Name:Ten Things I Hate About You Year:1999 Genre:Comedy Romance > "}
+{"label": "< Name:In the Company of Men Year:1997 Genre:Drama > ", "predict": "< Name:Closer Year:2004 Genre:Drama > "}
+{"label": "< Name:Snow Falling on Cedars Year:1999 Genre:Drama > ", "predict": "< Name:Anywhere But Here Year:1999 Genre:Drama > "}
+{"label": "< Name:All Quiet on the Western Front Year:1930 Genre:War > ", "predict": "< Name:Krippendorf's Tribe Year:1998 Genre:Comedy > "}
+{"label": "< Name:Cutting Edge, The Year:1992 Genre:Drama > ", "predict": "< Name:Babe Year:1995 Genre:Children's Drama > "}
+{"label": "< Name:Deep Blue Sea Year:1999 Genre:Action Sci-Fi Thriller > ", "predict": "< Name:Deep Blue Sea Year:1999 Genre:Action Sci-Fi Thriller > "}
+{"label": "< Name:Mask, The Year:1994 Genre:Comedy Crime Fantasy > ", "predict": "< Name:Clockwork Orange, A Year:1971 Genre:Crime Drama Thriller > "}
+{"label": "< Name:Until the End of the World (Bis ans Ende der Welt) Year:1991 Genre:Drama Sci-Fi > ", "predict": "< Name:Gummo Year:1997 Genre:Drama > "}
+{"label": "< Name:Austin Powers: International Man of Mystery Year:1997 Genre:Comedy > ", "predict": "< Name:Austin Powers: International Man of Mystery Year:1997 Genre:Comedy > "}
+{"label": "< Name:Flight of the Navigator Year:1986 Genre:Adventure Children's Sci-Fi > ", "predict": "< Name:Flight of the Navigator Year:1986 Genre:Adventure Children's Sci-Fi > "}
+{"label": "< Name:Entrapment Year:1999 Genre:Crime Thriller > ", "predict": "< Name:Cabin Boy Year:1994 Genre:Comedy > "}
+{"label": "< Name:Godfather: Part II, The Year:1974 Genre:Action Crime Drama > ", "predict": "< Name:Solaris Year:1972 Genre:Drama Sci-Fi > "}
+{"label": "< Name:Cape Fear Year:1991 Genre:Thriller > ", "predict": "< Name:Ronin Year:1998 Genre:Action Crime Thriller > "}
+{"label": "< Name:Four Rooms Year:1995 Genre:Thriller > ", "predict": "< Name:Four Rooms Year:1995 Genre:Thriller > "}
+{"label": "< Name:East is East Year:1999 Genre:Comedy > ", "predict": "< Name:Bull Durham Year:1988 Genre:Comedy Romance > "}
+{"label": "< Name:Boys Don't Cry Year:1999 Genre:Drama > ", "predict": "< Name:Hurricane Year:1999 Genre:Drama > "}
+{"label": "< Name:About Last Night... Year:1986 Genre:Comedy Drama Romance > ", "predict": "< Name:Wall Street Year:1987 Genre:Drama > "}
+{"label": "< Name:Pale Rider Year:1985 Genre:Western > ", "predict": "< Name:Pale Rider Year:1985 Genre:Western > "}
+{"label": "< Name:Death Becomes Her Year:1992 Genre:Comedy > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Horror Mystery > "}
+{"label": "< Name:What's Eating Gilbert Grape Year:1993 Genre:Drama > ", "predict": "< Name:What's Eating Gilbert Grape Year:1993 Genre:Drama > "}
+{"label": "< Name:Rainmaker, The Year:1997 Genre:Drama > ", "predict": "< Name:Rainmaker, The Year:1997 Genre:Drama > "}
+{"label": "< Name:Pretty Woman Year:1990 Genre:Comedy Romance > ", "predict": "< Name:Bride of Chucky Year:1998 Genre:Horror > "}
+{"label": "< Name:Star Trek V: The Final Frontier Year:1989 Genre:Action Adventure Sci-Fi > ", "predict": "< Name:Cape Fear Year:1991 Genre:Thriller > "}
+{"label": "< Name:Booty Call Year:1997 Genre:Comedy Romance > ", "predict": "< Name:Money Train Year:1995 Genre:Action Crime Thriller > "}
+{"label": "< Name:Butch Cassidy and the Sundance Kid Year:1969 Genre:Action Comedy Western > ", "predict": "< Name:South Pacific Year:1958 Genre:Musical Romance War > "}
+{"label": "< Name:Ghostbusters Year:1984 Genre:Comedy Horror > ", "predict": "< Name:House Year:1986 Genre:Comedy > "}
+{"label": "< Name:Playing by Heart Year:1998 Genre:Drama Romance > ", "predict": "< Name:Blown Away Year:1994 Genre:Action Thriller > "}
+{"label": "< Name:Notorious Year:1946 Genre:Film-Noir Romance Thriller > ", "predict": "< Name:Godfather: Part II, The Year:1974 Genre:Crime Drama > "}
+{"label": "< Name:Gone with the Wind Year:1939 Genre:Drama Romance War > ", "predict": "< Name:Casablanca Year:1942 Genre:Drama Romance War > "}
+{"label": "< Name:When Harry Met Sally... Year:1989 Genre:Comedy Romance > ", "predict": "< Name:When Harry Met Sally... Year:1989 Genre:Comedy Romance > "}
+{"label": "< Name:Gladiator Year:2000 Genre:Action Drama > ", "predict": "< Name:Gladiator Year:2000 Genre:Action Drama > "}
+{"label": "< Name:Phenomenon Year:1996 Genre:Drama Romance > ", "predict": "< Name:Father of the Bride Year:1950 Genre:Comedy > "}
+{"label": "< Name:Braindead Year:1992 Genre:Comedy Horror > ", "predict": "< Name:Dogma Year:1999 Genre:Comedy Fantasy > "}
+{"label": "< Name:Grateful Dead Year:1995 Genre:Documentary > ", "predict": "< Name:Pushing Tin Year:1999 Genre:Comedy > "}
+{"label": "< Name:Little Women Year:1994 Genre:Drama > ", "predict": "< Name:Sling Blade Year:1996 Genre:Drama > "}
+{"label": "< Name:Thomas Crown Affair, The Year:1968 Genre:Crime Drama Thriller > ", "predict": "< Name:Grosse Pointe Blank Year:1997 Genre:Comedy Crime > "}
+{"label": "< Name:Lion King, The Year:1994 Genre:Animation Children's Musical > ", "predict": "< Name:Godfather III, The Year:1990 Genre:Action Crime Drama > "}
+{"label": "< Name:Great Locomotive Chase, The Year:1956 Genre:Adventure War > ", "predict": "< Name:King and I, The Year:1956 Genre:Drama Musical > "}
+{"label": "< Name:Stuart Little Year:1999 Genre:Children's Comedy > ", "predict": "< Name:Gone in 60 Seconds Year:2000 Genre:Action Crime > "}
+{"label": "< Name:Nightmare on Elm Street, A Year:1984 Genre:Horror > ", "predict": "< Name:Mimic Year:1997 Genre:Horror Sci-Fi > "}
+{"label": "< Name:Fearless Year:1993 Genre:Drama > ", "predict": "< Name:The Hours Year:2002 Genre:Drama > "}
+{"label": "< Name:X-Men Year:2000 Genre:Action Sci-Fi > ", "predict": "< Name:Titan A.E. Year:2000 Genre:Action Adventure Sci-Fi > "}
+{"label": "< Name:Fight Club Year:1999 Genre:Drama > ", "predict": "< Name:Psycho Year:1960 Genre:Horror Thriller > "}
+{"label": "< Name:Father of the Bride Year:1950 Genre:Comedy > ", "predict": "< Name:Father of the Bride Year:1950 Genre:Comedy > "}
+{"label": "< Name:Full Monty, The Year:1997 Genre:Comedy > ", "predict": "< Name:Dead Man Walking Year:1995 Genre:Drama > "}
+{"label": "< Name:Good Will Hunting Year:1997 Genre:Drama > ", "predict": "< Name:Boogie Nights Year:1997 Genre:Drama > "}
+{"label": "< Name:X-Men Year:2000 Genre:Action Sci-Fi > ", "predict": "< Name:Cabaret Year:1972 Genre:Drama Musical > "}
+{"label": "< Name:Cider House Rules, The Year:1999 Genre:Drama > ", "predict": "< Name:Sopranos, The Year:1999 Genre:Crime Drama > "}
+{"label": "< Name:Cimarron Year:1931 Genre:Western > ", "predict": "< Name:Once Upon a Time in the West Year:1969 Genre:Western > "}
+{"label": "< Name:Monty Python and the Holy Grail Year:1974 Genre:Comedy > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Drama Horror Mystery > "}
+{"label": "< Name:Grease Year:1978 Genre:Comedy Musical Romance > ", "predict": "< Name:Splash Year:1984 Genre:Comedy Romance > "}
+{"label": "< Name:Rocky Year:1976 Genre:Action Drama > ", "predict": "< Name:Moonstruck Year:1987 Genre:Comedy Drama Romance > "}
+{"label": "< Name:Young Frankenstein Year:1974 Genre:Comedy Horror > ", "predict": "< Name:Wolfen Year:1981 Genre:Horror > "}
+{"label": "< Name:Atlantic City Year:1980 Genre:Crime Drama Romance > ", "predict": "< Name:Citizen Kane Year:1941 Genre:Drama > "}
+{"label": "< Name:American Gigolo Year:1980 Genre:Drama > ", "predict": "< Name:Twin Peaks: Fire Walk with Me Year:1992 Genre:Drama Mystery > "}
+{"label": "< Name:White Squall Year:1996 Genre:Adventure Drama > ", "predict": "< Name:Dante's Peak Year:1997 Genre:Action Adventure Thriller > "}
+{"label": "< Name:Goldfinger Year:1964 Genre:Action > ", "predict": "< Name:Dead Man Walking Year:1995 Genre:Drama > "}
+{"label": "< Name:Fletch Year:1985 Genre:Comedy > ", "predict": "< Name:Mission: Impossible Year:1996 Genre:Action Thriller > "}
+{"label": "< Name:Double Jeopardy Year:1999 Genre:Action Thriller > ", "predict": "< Name:Rushmore Year:1998 Genre:Comedy > "}
+{"label": "< Name:Primal Fear Year:1996 Genre:Drama Thriller > ", "predict": "< Name:Sling Blade Year:1996 Genre:Drama > "}
+{"label": "< Name:Talented Mr. Ripley, The Year:1999 Genre:Drama Mystery Thriller > ", "predict": "< Name:L.A. Confidential Year:1997 Genre:Crime Drama Mystery > "}
+{"label": "< Name:Negotiator, The Year:1998 Genre:Action Thriller > ", "predict": "< Name:Tombstone Year:1993 Genre:Western > "}
+{"label": "< Name:American Gigolo Year:1980 Genre:Drama > ", "predict": "< Name:American Gigolo Year:1980 Genre:Drama > "}
+{"label": "< Name:Election Year:1999 Genre:Comedy > ", "predict": "< Name:Lord of the Rings: The Fellowship of the Ring Year:2001 Genre:Action Adventure Fantasy > "}
+{"label": "< Name:Desert Bloom Year:1986 Genre:Drama > ", "predict": "< Name:Awakenings Year:1990 Genre:Drama > "}
+{"label": "< Name:Cop Land Year:1997 Genre:Crime Drama Mystery > ", "predict": "< Name:Falling Down Year:1993 Genre:Action Comedy > "}
+{"label": "< Name:Lone Star Year:1996 Genre:Drama Mystery > ", "predict": "< Name:Little Miss Sunshine Year:2006 Genre:Comedy Drama > "}
+{"label": "< Name:Fargo Year:1996 Genre:Crime Drama Thriller > ", "predict": "< Name:Citizen Kane Year:1941 Genre:Drama > "}
+{"label": "< Name:Moonstruck Year:1987 Genre:Comedy > ", "predict": "< Name:The Big Lebowski Year:1998 Genre:Comedy Crime > "}
+{"label": "< Name:Babe Year:1995 Genre:Children's Comedy Drama > ", "predict": "< Name:Casablanca Year:1942 Genre:Drama Romance War > "}
+{"label": "< Name:Virgin Suicides, The Year:1999 Genre:Comedy Drama > ", "predict": "< Name:Sleepy Hollow Year:1999 Genre:Action Adventure Mystery > "}
+{"label": "< Name:Brazil Year:1985 Genre:Sci-Fi > ", "predict": "< Name:Godfather: Part III, The Year:1990 Genre:Action Crime Drama > "}
+{"label": "< Name:Apocalypse Now Year:1979 Genre:Drama War > ", "predict": "< Name:Apocalypse Now Year:1979 Genre:Drama War > "}
+{"label": "< Name:Hard Day's Night, A Year:1964 Genre:Comedy Musical > ", "predict": "< Name:Young Frankenstein Year:1974 Genre:Comedy Horror > "}
+{"label": "< Name:Nutty Professor II: The Klumps Year:2000 Genre:Comedy > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Thriller > "}
+{"label": "< Name:Brady Bunch Movie, The Year:1995 Genre:Comedy > ", "predict": "< Name:Bringing Out the Dead Year:1999 Genre:Drama > "}
+{"label": "< Name:Big Chill, The Year:1983 Genre:Comedy Drama > ", "predict": "< Name:Godfather, The Year:1972 Genre:Crime Drama > "}
+{"label": "< Name:Thin Blue Line, The Year:1988 Genre:Documentary > ", "predict": "< Name:Fugitive, The Year:1993 Genre:Action Thriller > "}
+{"label": "< Name:Almost Famous Year:2000 Genre:Comedy Drama > ", "predict": "< Name:Almost Famous Year:2000 Genre:Comedy Drama > "}
+{"label": "< Name:Stardust Memories Year:1980 Genre:Comedy Drama > ", "predict": "< Name:Stardust Memories Year:1980 Genre:Comedy Drama > "}
+{"label": "< Name:Jeremiah Johnson Year:1972 Genre:Western > ", "predict": "< Name:Analyze This Year:1999 Genre:Comedy > "}
+{"label": "< Name:American President, The Year:1995 Genre:Comedy Drama Romance > ", "predict": "< Name:Wild Things Year:1998 Genre:Thriller > "}
+{"label": "< Name:Maverick Year:1994 Genre:Action Comedy Western > ", "predict": "< Name:Love Field Year:1992 Genre:Drama > "}
+{"label": "< Name:Piano, The Year:1993 Genre:Drama Romance > ", "predict": "< Name:Babette's Feast Year:1987 Genre:Drama > "}
+{"label": "< Name:Star Trek: The Wrath of Khan Year:1982 Genre:Action Adventure Sci-Fi > ", "predict": "< Name:Aliens (a.k.a. Alien 2) Year:1986 Genre:Action Sci-Fi > "}
+{"label": "< Name:Dog Day Afternoon Year:1975 Genre:Comedy Crime Drama > ", "predict": "< Name:Sweet Home Alabama Year:2002 Genre:Comedy Romance > "}
+{"label": "< Name:Trainspotting Year:1996 Genre:Drama > ", "predict": "< Name:Lost Weekend, The Year:1945 Genre:Drama > "}
+{"label": "< Name:Jumanji Year:1995 Genre:Adventure Children's Fantasy > ", "predict": "< Name:Jumanji Year:1995 Genre:Adventure Children's Fantasy > "}
+{"label": "< Name:Glory Year:1989 Genre:Action Drama War > ", "predict": "< Name:Ghost Year:1990 Genre:Comedy Romance > "}
+{"label": "< Name:Spanking the Monkey Year:1994 Genre:Comedy Drama > ", "predict": "< Name:Spanking the Monkey Year:1994 Genre:Comedy Drama > "}
+{"label": "< Name:Raiders of the Lost Ark Year:1981 Genre:Action Adventure > ", "predict": "< Name:Willy Wonka & the Chocolate Factory Year:1971 Genre:Adventure Children's Comedy Fantasy > "}
+{"label": "< Name:Dune Year:1984 Genre:Fantasy Sci-Fi > ", "predict": "< Name:Mighty Aphrodite Year:1995 Genre:Comedy Drama > "}
+{"label": "< Name:Frequency Year:2000 Genre:Drama Thriller > ", "predict": "< Name:Gone in 60 Seconds Year:2000 Genre:Action Crime Thriller > "}
+{"label": "< Name:First Blood Year:1982 Genre:Action > ", "predict": "< Name:Ghost Year:1990 Genre:Romance Thriller > "}
+{"label": "< Name:Singles Year:1992 Genre:Comedy Drama Romance > ", "predict": "< Name:Singles Year:1992 Genre:Comedy Drama Romance > "}
+{"label": "< Name:Reservoir Dogs Year:1992 Genre:Crime Thriller > ", "predict": "< Name:Hard-Boiled (Lashou shentan) Year:1992 Genre:Action Crime > "}
+{"label": "< Name:Alien Year:1979 Genre:Action Horror Sci-Fi Thriller > ", "predict": "< Name:Star Wars: Episode VI - Return of the Jedi Year:1983 Genre:Action Adventure Sci-Fi War > "}
+{"label": "< Name:Citizen Kane Year:1941 Genre:Drama > ", "predict": "< Name:Ghost Year:1990 Genre:Comedy Romance > "}
+{"label": "< Name:Producers, The Year:1968 Genre:Comedy Musical > ", "predict": "< Name:Fight Club Year:1999 Genre:Drama Thriller > "}
+{"label": "< Name:Sense and Sensibility Year:1995 Genre:Drama Romance > ", "predict": "< Name:House of Sand and Fog Year:2003 Genre:Drama > "}
+{"label": "< Name:She's All That Year:1999 Genre:Comedy Romance > ", "predict": "< Name:Mystery Men Year:1999 Genre:Action Comedy > "}
+{"label": "< Name:Indian in the Cupboard, The Year:1995 Genre:Adventure Children's Fantasy > ", "predict": "< Name:Indian in the Cupboard, The Year:1995 Genre:Adventure Children's Fantasy > "}
+{"label": "< Name:Malcolm X Year:1992 Genre:Drama > ", "predict": "< Name:Little Princess, The Year:1995 Genre:Drama > "}
+{"label": "< Name:Bicycle Thief, The (Ladri di biciclette) Year:1948 Genre:Drama > ", "predict": "< Name:Clockwork Orange, A Year:1971 Genre:Drama > "}
+{"label": "< Name:Fargo Year:1996 Genre:Crime Drama Thriller > ", "predict": "< Name:Nightmare Before Christmas, The Year:1993 Genre:Animation Children's > "}
+{"label": "< Name:Blue Streak Year:1999 Genre:Comedy > ", "predict": "< Name:Superstar Year:1999 Genre:Comedy > "}
+{"label": "< Name:Sixth Sense, The Year:1999 Genre:Thriller > ", "predict": "< Name:Romeo + Juliet Year:1996 Genre:Romance > "}
+{"label": "< Name:Rescuers Down Under, The Year:1990 Genre:Animation Children's > ", "predict": "< Name:NeverEnding Story II: The Next Chapter Year:1990 Genre:Adventure Children's Fantasy > "}
+{"label": "< Name:Jean de Florette Year:1986 Genre:Drama > ", "predict": "< Name:Jean de Florette Year:1986 Genre:Drama > "}
+{"label": "< Name:Walk in the Clouds, A Year:1995 Genre:Drama Romance > ", "predict": "< Name:House of Sand and Fog Year:2003 Genre:Drama > "}
+{"label": "< Name:From Russia with Love Year:1963 Genre:Action > ", "predict": "< Name:Galaxy Quest Year:1999 Genre:Action Comedy Sci-Fi > "}
+{"label": "< Name:Austin Powers: The Spy Who Shagged Me Year:1999 Genre:Comedy > ", "predict": "< Name:Batman Returns Year:1992 Genre:Action Adventure Crime Drama > "}
+{"label": "< Name:Life Is Beautiful (La Vita è bella) Year:1997 Genre:Comedy Drama > ", "predict": "< Name:Rocky Year:1976 Genre:Drama > "}
+{"label": "< Name:Young Guns Year:1988 Genre:Action Comedy Western > ", "predict": "< Name:Pocahontas Year:1995 Genre:Animation Children's Musical Romance > "}
+{"label": "< Name:Six Degrees of Separation Year:1993 Genre:Drama > ", "predict": "< Name:Tango Year:1993 Genre:Drama Romance > "}
+{"label": "< Name:Striptease Year:1996 Genre:Comedy Crime > ", "predict": "< Name:Dick Tracy Year:1990 Genre:Action Crime > "}
+{"label": "< Name:54 Year:1998 Genre:Drama > ", "predict": "< Name:Hurricane Year:1999 Genre:Drama > "}
+{"label": "< Name:Saving Grace Year:2000 Genre:Comedy > ", "predict": "< Name:Remember the Titans Year:2000 Genre:Drama > "}
+{"label": "< Name:Mallrats Year:1995 Genre:Comedy > ", "predict": "< Name:Cop Land Year:1997 Genre:Crime Drama Thriller > "}
+{"label": "< Name:101 Dalmatians Year:1996 Genre:Children's Comedy > ", "predict": "< Name:Air Force One Year:1997 Genre:Action Thriller > "}
+{"label": "< Name:Indochine Year:1992 Genre:Drama Romance > ", "predict": "< Name:Rosewood Year:1997 Genre:Crime Drama > "}
+{"label": "< Name:Cliffhanger Year:1993 Genre:Action Adventure Crime > ", "predict": "< Name:Dick Tracy Year:1990 Genre:Action Adventure Crime > "}
+{"label": "< Name:Lion King, The Year:1994 Genre:Animation Children's Musical > ", "predict": "< Name:Hunchback of Notre Dame, The Year:1996 Genre:Animation Children's Musical > "}
+{"label": "< Name:Billy Madison Year:1995 Genre:Comedy > ", "predict": "< Name:Apollo 13 Year:1995 Genre:Drama > "}
+{"label": "< Name:Sleepy Hollow Year:1999 Genre:Horror Romance > ", "predict": "< Name:Scream 3 Year:2000 Genre:Horror Mystery Thriller > "}
+{"label": "< Name:Bound Year:1996 Genre:Crime Drama Romance Thriller > ", "predict": "< Name:Rainmaker, The Year:1997 Genre:Drama > "}
+{"label": "< Name:Babe Year:1995 Genre:Children's Comedy Drama > ", "predict": "< Name:Leaving Las Vegas Year:1995 Genre:Drama Romance > "}
+{"label": "< Name:Cat Ballou Year:1965 Genre:Comedy Western > ", "predict": "< Name:Godfather, Part III, The Year:1990 Genre:Drama > "}
+{"label": "< Name:Cutting Edge, The Year:1992 Genre:Drama > ", "predict": "< Name:Pulp Fiction Year:1994 Genre:Action Crime Drama > "}
+{"label": "< Name:Irma la Douce Year:1963 Genre:Comedy > ", "predict": "< Name:Rain Man Year:1988 Genre:Drama > "}
+{"label": "< Name:Clueless Year:1995 Genre:Comedy Romance > ", "predict": "< Name:Circle of Friends Year:1995 Genre:Drama Romance > "}
+{"label": "< Name:Plunkett & MaCleane Year:1999 Genre:Action Drama > ", "predict": "< Name:Magnolia Year:1999 Genre:Drama > "}
+{"label": "< Name:Amadeus Year:1984 Genre:Drama > ", "predict": "< Name:Citizen Kane Year:1941 Genre:Drama > "}
+{"label": "< Name:GoodFellas Year:1990 Genre:Crime Drama > ", "predict": "< Name:Dreaming of Joseph Lees Year:1998 Genre:Romance > "}
+{"label": "< Name:Ace Ventura: Pet Detective Year:1994 Genre:Comedy > ", "predict": "< Name:Titan A.E. Year:2000 Genre:Animation Children's Sci-Fi > "}
+{"label": "< Name:Jennifer 8 Year:1992 Genre:Thriller > ", "predict": "< Name:Tomorrow Never Dies Year:1997 Genre:Action Romance Thriller > "}
+{"label": "< Name:Piano, The Year:1993 Genre:Drama Romance > ", "predict": "< Name:Blade Runner Year:1982 Genre:Film-Noir Sci-Fi > "}
+{"label": "< Name:Siege, The Year:1998 Genre:Action Thriller > ", "predict": "< Name:Shawshank Redemption, The Year:1994 Genre:Drama > "}
+{"label": "< Name:True Crime Year:1995 Genre:Mystery Thriller > ", "predict": "< Name:Dark City Year:1998 Genre:Action Mystery Sci-Fi Thriller > "}
+{"label": "< Name:Bringing Out the Dead Year:1999 Genre:Drama Horror > ", "predict": "< Name:Bringing Out the Dead Year:1999 Genre:Drama Horror > "}
+{"label": "< Name:Defending Your Life Year:1991 Genre:Comedy Romance > ", "predict": "< Name:Fugitive, The Year:1993 Genre:Action Thriller > "}
+{"label": "< Name:When a Man Loves a Woman Year:1994 Genre:Drama > ", "predict": "< Name:When a Man Loves a Woman Year:1994 Genre:Drama > "}
+{"label": "< Name:Birdcage, The Year:1996 Genre:Comedy > ", "predict": "< Name:Mighty Aphrodite Year:1995 Genre:Comedy > "}
+{"label": "< Name:Velvet Goldmine Year:1998 Genre:Drama > ", "predict": "< Name:Buffalo 66 Year:1998 Genre:Comedy > "}
+{"label": "< Name:Magnolia Year:1999 Genre:Drama > ", "predict": "< Name:Rock Year:1996 Genre:Action Adventure Thriller > "}
+{"label": "< Name:Glory Year:1989 Genre:Action Drama War > ", "predict": "< Name:Bowfinger Year:1999 Genre:Comedy > "}
+{"label": "< Name:Stand by Me Year:1986 Genre:Adventure Comedy Drama > ", "predict": "< Name:Herbie Goes Bananas Year:1980 Genre:Adventure Children's Comedy > "}
+{"label": "< Name:You've Got Mail Year:1998 Genre:Comedy Romance > ", "predict": "< Name:Terms of Endearment Year:1983 Genre:Comedy Drama > "}
+{"label": "< Name:Braveheart Year:1995 Genre:Action Drama War > ", "predict": "< Name:Sixth Sense Year:1999 Genre:Thriller > "}
+{"label": "< Name:E.T. the Extra-Terrestrial Year:1982 Genre:Children's Drama Fantasy Sci-Fi > ", "predict": "< Name:Jurassic Park Year:1993 Genre:Adventure Children's Sci-Fi > "}
+{"label": "< Name:Nutty Professor, The Year:1996 Genre:Comedy Fantasy Romance Sci-Fi > ", "predict": "< Name:Nutty Professor, The Year:1996 Genre:Comedy Fantasy Romance Sci-Fi > "}
+{"label": "< Name:Alien Year:1979 Genre:Action Horror Sci-Fi Thriller > ", "predict": "< Name:Star Wars: Episode V - The Empire Strikes Back Year:1980 Genre:Action Adventure Sci-Fi > "}
+{"label": "< Name:World Is Not Enough, The Year:1999 Genre:Action Thriller > ", "predict": "< Name:Crying Game, The Year:1992 Genre:Drama > "}
+{"label": "< Name:Armageddon Year:1998 Genre:Action Adventure Sci-Fi Thriller > ", "predict": "< Name:Armageddon Year:1998 Genre:Action Adventure Sci-Fi Thriller > "}
+{"label": "< Name:Cape Fear Year:1991 Genre:Thriller > ", "predict": "< Name:Casino Year:1995 Genre:Crime Drama > "}
+{"label": "< Name:Lion King, The Year:1994 Genre:Animation Children's Musical > ", "predict": "< Name:Little Mermaid, The Year:1989 Genre:Animation Children's Musical > "}
+{"label": "< Name:Dracula Year:1931 Genre:Horror > ", "predict": "< Name:Psycho Year:1960 Genre:Horror Thriller > "}
+{"label": "< Name:Sleepless in Seattle Year:1993 Genre:Comedy Romance > ", "predict": "< Name:Air Force One Year:1997 Genre:Action Thriller > "}
+{"label": "< Name:Robocop Year:1987 Genre:Action Crime Sci-Fi > ", "predict": "< Name:Terminator 2: Judgment Day Year:1991 Genre:Action Sci-Fi Thriller > "}
+{"label": "< Name:Donnie Brasco Year:1997 Genre:Crime Drama > ", "predict": "< Name:Saving Private Ryan Year:1998 Genre:Action War > "}
+{"label": "< Name:Gattaca Year:1997 Genre:Drama Sci-Fi Thriller > ", "predict": "< Name:Gattaca Year:1997 Genre:Drama Sci-Fi Thriller > "}
+{"label": "< Name:Psycho Year:1998 Genre:Crime Horror Thriller > ", "predict": "< Name:Twin Peaks: Fire Walk with Me Year:1992 Genre:Drama Mystery Thriller > "}
+{"label": "< Name:Crow, The Year:1994 Genre:Action Romance Thriller > ", "predict": "< Name:Dead Presidents Year:1995 Genre:Action Crime Drama > "}
+{"label": "< Name:Manhattan Murder Mystery Year:1993 Genre:Comedy Mystery > ", "predict": "< Name:Manhattan Murder Mystery Year:1993 Genre:Comedy Mystery > "}
+{"label": "< Name:Butch Cassidy and the Sundance Kid Year:1969 Genre:Action Comedy Western > ", "predict": "< Name:Wild Bunch, The Year:1969 Genre:Action Western > "}
+{"label": "< Name:Endless Summer 2, The Year:1994 Genre:Documentary > ", "predict": "< Name:Pink Panther Strikes Again, The Year:1976 Genre:Comedy > "}
+{"label": "< Name:Pale Rider Year:1985 Genre:Western > ", "predict": "< Name:Rushmore Year:1998 Genre:Comedy > "}
+{"label": "< Name:Swingers Year:1996 Genre:Comedy Drama > ", "predict": "< Name:Batman & Robin Year:1997 Genre:Action Adventure > "}
+{"label": "< Name:Spy Who Loved Me, The Year:1977 Genre:Action > ", "predict": "< Name:Mummy Returns, The Year:2001 Genre:Action Adventure > "}
+{"label": "< Name:Raisin in the Sun, A Year:1961 Genre:Drama > ", "predict": "< Name:Diner Year:1982 Genre:Drama > "}
+{"label": "< Name:Raiders of the Lost Ark Year:1981 Genre:Action Adventure > ", "predict": "< Name:Psycho Year:1960 Genre:Horror Thriller > "}
+{"label": "< Name:Shanghai Noon Year:2000 Genre:Action > ", "predict": "< Name:Rushmore Year:1998 Genre:Comedy > "}
+{"label": "< Name:High Fidelity Year:2000 Genre:Comedy > ", "predict": "< Name:Ten Year Lunch: The Wit and Legend of the Algonquin Round Table Year:1999 Genre:Documentary > "}
+{"label": "< Name:Being John Malkovich Year:1999 Genre:Comedy > ", "predict": "< Name:Dick Year:1999 Genre:Comedy > "}
+{"label": "< Name:Crimson Tide Year:1995 Genre:Drama Thriller War > ", "predict": "< Name:Iron Eagle Year:1986 Genre:Action War > "}
+{"label": "< Name:Toy Story 2 Year:1999 Genre:Animation Children's Comedy > ", "predict": "< Name:Rushmore Year:1998 Genre:Comedy Drama > "}
+{"label": "< Name:Friday the 13th Part VIII: Jason Takes Manhattan Year:1989 Genre:Horror > ", "predict": "< Name:I Still Know What You Did Last Summer Year:1998 Genre:Horror Mystery Thriller > "}
+{"label": "< Name:Untouchables, The Year:1987 Genre:Action Crime Drama > ", "predict": "< Name:Sister Act Year:1992 Genre:Comedy > "}
+{"label": "< Name:Star Trek: First Contact Year:1996 Genre:Action Adventure Sci-Fi > ", "predict": "< Name:Alien 3 Year:1992 Genre:Horror Sci-Fi > "}
+{"label": "< Name:Much Ado About Nothing Year:1993 Genre:Comedy Romance > ", "predict": "< Name:Dances with Wolves Year:1990 Genre:Drama Romance Western > "}
+{"label": "< Name:Big Kahuna, The Year:2000 Genre:Comedy Drama > ", "predict": "< Name:Scarface Year:1983 Genre:Action Crime Drama > "}
+{"label": "< Name:Madness of King George, The Year:1994 Genre:Drama > ", "predict": "< Name:Natural Year:1984 Genre:Drama > "}
+{"label": "< Name:Babe: Pig in the City Year:1998 Genre:Children's Comedy > ", "predict": "< Name:Blade Runner Year:1982 Genre:Action Drama Sci-Fi > "}
+{"label": "< Name:Beyond Silence Year:1996 Genre:Drama > ", "predict": "< Name:Cruel Intentions Year:1999 Genre:Drama > "}
+{"label": "< Name:Stir of Echoes Year:1999 Genre:Thriller > ", "predict": "< Name:Runaway Bride Year:1999 Genre:Comedy Romance > "}
+{"label": "< Name:Craft, The Year:1996 Genre:Drama Horror > ", "predict": "< Name:Romeo + Juliet Year:1996 Genre:Drama Romance > "}
+{"label": "< Name:Field of Dreams Year:1989 Genre:Drama > ", "predict": "< Name:Rain Man Year:1988 Genre:Comedy Drama > "}
+{"label": "< Name:Jungle Book, The Year:1967 Genre:Animation Children's Comedy Musical > ", "predict": "< Name:On the Town Year:1949 Genre:Musical > "}
+{"label": "< Name:Candleshoe Year:1977 Genre:Adventure Children's Comedy > ", "predict": "< Name:Mickey's Christmas Carol Year:1983 Genre:Animation Children's Comedy Musical > "}
+{"label": "< Name:Star Wars: Episode I - The Phantom Menace Year:1999 Genre:Action Adventure Fantasy Sci-Fi > ", "predict": "< Name:Dude, Where's My Car? Year:2000 Genre:Comedy > "}
+{"label": "< Name:Kundun Year:1997 Genre:Drama > ", "predict": "< Name:Happening, The Year:1967 Genre:Drama Romance > "}
+{"label": "< Name:Heathers Year:1989 Genre:Comedy > ", "predict": "< Name:Mrs. Doubtfire Year:1993 Genre:Comedy > "}
+{"label": "< Name:Godfather, The Year:1972 Genre:Action Crime Drama > ", "predict": "< Name:Godfather, Part II, The Year:1974 Genre:Action Crime Drama > "}
+{"label": "< Name:Conformist, The (Il Conformista) Year:1970 Genre:Drama > ", "predict": "< Name:The Apartment Year:1960 Genre:Comedy Drama > "}
+{"label": "< Name:Homeward Bound: The Incredible Journey Year:1993 Genre:Adventure Children's > ", "predict": "> "}
+{"label": "< Name:Magnolia Year:1999 Genre:Drama > ", "predict": "< Name:Bowfinger Year:1999 Genre:Comedy > "}
+{"label": "< Name:Sixth Sense, The Year:1999 Genre:Thriller > ", "predict": "< Name:Snow Falling on Cedars Year:1999 Genre:Drama > "}
+{"label": "< Name:Romper Stomper Year:1992 Genre:Action Drama > ", "predict": "< Name:Romper Stomper Year:1992 Genre:Action Drama > "}
+{"label": "< Name:Road Trip Year:2000 Genre:Comedy > ", "predict": "< Name:Kid, The Year:1921 Genre:Action > "}
+{"label": "< Name:Untouchables, The Year:1987 Genre:Action Crime Drama > ", "predict": "< Name:Little Shop of Horrors Year:1986 Genre:Comedy Musical > "}
+{"label": "< Name:Ipcress File, The Year:1965 Genre:Thriller > ", "predict": "< Name:Godfather: Part III, The Year:1990 Genre:Action Crime Drama > "}
+{"label": "< Name:Welcome to the Dollhouse Year:1995 Genre:Comedy Drama > ", "predict": "< Name:Wayne's World 2 Year:1993 Genre:Comedy > "}
+{"label": "< Name:Shakespeare in Love Year:1998 Genre:Comedy Romance > ", "predict": "< Name:Shadow Year:1998 Genre:Action Adventure > "}
+{"label": "< Name:Gods Must Be Crazy, The Year:1980 Genre:Comedy > ", "predict": "< Name:Practical Magic Year:1998 Genre:Comedy Fantasy > "}
+{"label": "< Name:Tingler, The Year:1959 Genre:Horror > ", "predict": "< Name:Fearless Vampire Killers, The Year:1967 Genre:Comedy Horror > "}
+{"label": "< Name:Cinema Paradiso Year:1988 Genre:Comedy Drama Romance > ", "predict": "< Name:Cinema Paradiso Year:1988 Genre:Comedy Drama Romance > "}
+{"label": "< Name:Green Mile, The Year:1999 Genre:Drama Thriller > ", "predict": "< Name:Rushmore Year:1998 Genre:Comedy > "}
+{"label": "< Name:Meet Joe Black Year:1998 Genre:Romance > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Thriller > "}
+{"label": "< Name:Outsiders, The Year:1983 Genre:Drama > ", "predict": "< Name:Outsiders, The Year:1983 Genre:Drama > "}
+{"label": "< Name:Bone Collector, The Year:1999 Genre:Thriller > ", "predict": "< Name:Sleepy Hollow Year:1999 Genre:Horror > "}
+{"label": "< Name:End of Days Year:1999 Genre:Action Thriller > ", "predict": "< Name:Dinosaur Year:2000 Genre:Animation Children's Comedy > "}
+{"label": "< Name:Casablanca Year:1942 Genre:Drama Romance War > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Drama Horror Mystery Thriller > "}
+{"label": "< Name:Simple Plan, A Year:1998 Genre:Crime Thriller > ", "predict": "< Name:Lost World, The Year:1997 Genre:Action Adventure Sci-Fi > "}
+{"label": "< Name:Gattaca Year:1997 Genre:Drama Sci-Fi Thriller > ", "predict": "< Name:Gattaca Year:1997 Genre:Drama Sci-Fi Thriller > "}
+{"label": "< Name:Boomerang Year:1992 Genre:Comedy Romance > ", "predict": "< Name:The Wedding Singer Year:1998 Genre:Comedy Romance > "}
+{"label": "< Name:End of Days Year:1999 Genre:Action Thriller > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Thriller > "}
+{"label": "< Name:What Ever Happened to Baby Jane? Year:1962 Genre:Drama Thriller > ", "predict": "< Name:Birdcage, The Year:1996 Genre:Comedy > "}
+{"label": "< Name:Green Mile, The Year:1999 Genre:Drama Thriller > ", "predict": "< Name:Roman Holiday Year:1953 Genre:Comedy Romance > "}
+{"label": "< Name:Hudsucker Proxy, The Year:1994 Genre:Comedy Romance > ", "predict": "< Name:Gone with the Wind Year:1939 Genre:Drama Romance War > "}
+{"label": "< Name:Sixth Sense, The Year:1999 Genre:Thriller > ", "predict": "< Name:Rocket Gibraltar Year:1988 Genre:Comedy > "}
+{"label": "< Name:Touch of Evil Year:1958 Genre:Crime Film-Noir Thriller > ", "predict": "< Name:Caddyshack Year:1980 Genre:Comedy > "}
+{"label": "< Name:Stranger Than Paradise Year:1984 Genre:Comedy > ", "predict": "< Name:Stranger Than Paradise Year:1984 Genre:Comedy > "}
+{"label": "< Name:Magnolia Year:1999 Genre:Drama > ", "predict": "< Name:Sneakers Year:1992 Genre:Thriller > "}
+{"label": "< Name:Birdy Year:1984 Genre:Drama War > ", "predict": "< Name:Birdy Year:1984 Genre:Drama War > "}
+{"label": "< Name:Carrington Year:1995 Genre:Drama Romance > ", "predict": "< Name:Girl with a Pearl Earring Year:2003 Genre:Drama > "}
+{"label": "< Name:Thomas Crown Affair, The Year:1999 Genre:Action Thriller > ", "predict": "< Name:Catch Me If You Can Year:2002 Genre:Action Thriller > "}
+{"label": "< Name:Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb Year:1963 Genre:Sci-Fi War > ", "predict": "< Name:Fiddler on the Roof Year:1971 Genre:Drama Musical > "}
+{"label": "< Name:Wedding Gift, The Year:1994 Genre:Drama > ", "predict": "< Name:Wedding Gift, The Year:1994 Genre:Drama > "}
+{"label": "< Name:Sugarland Express, The Year:1974 Genre:Drama > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Thriller > "}
+{"label": "< Name:Honeymoon in Vegas Year:1992 Genre:Comedy Romance > ", "predict": "< Name:Honeymoon in Vegas Year:1992 Genre:Comedy Romance > "}
+{"label": "< Name:Lone Star Year:1996 Genre:Drama Mystery > ", "predict": "< Name:Gladiator Year:2000 Genre:Action Adventure Drama > "}
+{"label": "< Name:Godfather: Part II, The Year:1974 Genre:Action Crime Drama > ", "predict": "< Name:Wedding Singer, The Year:1998 Genre:Comedy Romance > "}
+{"label": "< Name:Sixth Sense, The Year:1999 Genre:Thriller > ", "predict": "< Name:Sleeping Beauty Year:1959 Genre:Adventure Fantasy Musical Romance > "}
+{"label": "< Name:Rebecca Year:1940 Genre:Romance Thriller > ", "predict": "< Name:His Girl Friday Year:1940 Genre:Comedy Romance > "}
+{"label": "< Name:Grosse Pointe Blank Year:1997 Genre:Comedy Crime > ", "predict": "< Name:Wayne's World Year:1992 Genre:Comedy > "}
+{"label": "< Name:Titanic Year:1997 Genre:Drama Romance > ", "predict": "< Name:Dangerous Liaisons Year:1988 Genre:Drama Romance > "}
+{"label": "< Name:Eyes Without a Face Year:1959 Genre:Horror > ", "predict": "< Name:Lady and the Tramp Year:1955 Genre:Animation Children's Comedy Musical Romance > "}
+{"label": "< Name:Witness Year:1985 Genre:Drama Romance Thriller > ", "predict": "Drama Horror Thriller > "}
+{"label": "< Name:Bull Durham Year:1988 Genre:Comedy > ", "predict": "< Name:Wolf Year:1994 Genre:Drama > "}
+{"label": "< Name:American President, The Year:1995 Genre:Comedy Drama Romance > ", "predict": "< Name:Godfather: Part II, The Year:1974 Genre:Drama > "}
+{"label": "< Name:Double Jeopardy Year:1999 Genre:Action Thriller > ", "predict": "< Name:Gladiator Year:2000 Genre:Action Adventure > "}
+{"label": "< Name:Shaft Year:2000 Genre:Action Crime > ", "predict": "< Name:Billy Elliot Year:2000 Genre:Drama Musical > "}
+{"label": "< Name:So I Married an Axe Murderer Year:1993 Genre:Comedy Romance Thriller > ", "predict": "< Name:Mr. Jones Year:1993 Genre:Drama Romance > "}
+{"label": "< Name:Babe Year:1995 Genre:Children's Comedy Drama > ", "predict": "< Name:Amadeus Year:1984 Genre:Drama > "}
+{"label": "< Name:White Men Can't Jump Year:1992 Genre:Comedy > ", "predict": "< Name:Hud Year:1963 Genre:Drama > "}
+{"label": "< Name:X-Files: Fight the Future, The Year:1998 Genre:Mystery Sci-Fi Thriller > ", "predict": "< Name:Lost World: Jurassic Park, The Year:1997 Genre:Action Adventure Children's Sci-Fi > "}
+{"label": "< Name:Deep Blue Sea Year:1999 Genre:Action Sci-Fi Thriller > ", "predict": "< Name:Money Train Year:1995 Genre:Action Crime Thriller > "}
+{"label": "< Name:Get Shorty Year:1995 Genre:Action Comedy Drama > ", "predict": "< Name:Get Shorty Year:1995 Genre:Action Comedy Drama > "}
+{"label": "< Name:X-Men Year:2000 Genre:Action Sci-Fi > ", "predict": "< Name:Lord of the Rings: The Fellowship of the Ring, The Year:2001 Genre:Adventure Fantasy > "}
+{"label": "< Name:Chicken Run Year:2000 Genre:Animation Children's Comedy > ", "predict": "< Name:Big Kahuna, The Year:2000 Genre:Comedy Drama > "}
+{"label": "< Name:Giant Year:1956 Genre:Drama > ", "predict": "< Name:Tales of the City Year:1993 Genre:Comedy-Drama > "}
+{"label": "< Name:Austin Powers: The Spy Who Shagged Me Year:1999 Genre:Comedy > ", "predict": "< Name:American Pie Year:1999 Genre:Comedy > "}
+{"label": "< Name:X-Men Year:2000 Genre:Action Sci-Fi > ", "predict": "< Name:Lethal Weapon 3 Year:1992 Genre:Action > "}
+{"label": "< Name:Yellow Submarine Year:1968 Genre:Animation Musical > ", "predict": "< Name:Lion King, The Year:1994 Genre:Animation Children's Musical > "}
+{"label": "< Name:Bringing Out the Dead Year:1999 Genre:Drama Horror > ", "predict": "< Name:End of Days Year:1999 Genre:Action Thriller > "}
+{"label": "< Name:Blues Brothers, The Year:1980 Genre:Action Comedy Musical > ", "predict": "< Name:Star Wars: Episode V - The Empire Strikes Back Year:1980 Genre:Action Adventure Romance Sci-Fi War > "}
+{"label": "< Name:Philadelphia Story, The Year:1940 Genre:Comedy Romance > ", "predict": "< Name:Pride and Prejudice Year:2005 Genre:Drama Romance > "}
+{"label": "< Name:Contender, The Year:2000 Genre:Drama Thriller > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Horror Mystery Thriller > "}
+{"label": "< Name:Legends of the Fall Year:1994 Genre:Drama Romance War Western > ", "predict": "< Name:Legends of the Fall Year:1994 Genre:Drama Romance War Western > "}
+{"label": "< Name:Repo Man Year:1984 Genre:Comedy Sci-Fi > ", "predict": "< Name:Repo Man Year:1984 Genre:Comedy Sci-Fi > "}
+{"label": "< Name:True Lies Year:1994 Genre:Action Adventure Comedy Romance > ", "predict": "< Name:Thunderball Year:1965 Genre:Action > "}
+{"label": "< Name:Bug's Life, A Year:1998 Genre:Animation Children's Comedy > ", "predict": "< Name:Fight Club Year:1999 Genre:Drama Thriller > "}
+{"label": "< Name:Moonstruck Year:1987 Genre:Comedy > ", "predict": "< Name:Cold Mountain Year:2003 Genre:Drama War > "}
+{"label": "< Name:Old Yeller Year:1957 Genre:Children's Drama > ", "predict": "< Name:Old Yeller Year:1957 Genre:Children's Drama > "}
+{"label": "< Name:Grand Day Out, A Year:1992 Genre:Animation Comedy > ", "predict": "< Name:Mighty Aphrodite Year:1995 Genre:Comedy Drama > "}
+{"label": "< Name:Green Mile, The Year:1999 Genre:Drama Thriller > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Horror Mystery > "}
+{"label": "< Name:Marnie Year:1964 Genre:Thriller > ", "predict": "< Name:Moonstruck Year:1987 Genre:Comedy Romance > "}
+{"label": "< Name:American Pie Year:1999 Genre:Comedy > ", "predict": "< Name:Being John Malkovich Year:1999 Genre:Comedy Drama > "}
+{"label": "< Name:Shakespeare in Love Year:1998 Genre:Comedy Romance > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Thriller > "}
+{"label": "< Name:Prince of Egypt, The Year:1998 Genre:Animation Musical > ", "predict": "< Name:Godfather: Part II, The Year:1974 Genre:Drama > "}
+{"label": "< Name:Kids in the Hall: Brain Candy Year:1996 Genre:Comedy > ", "predict": "< Name:Father of the Bride Year:1991 Genre:Comedy Romance > "}
+{"label": "< Name:Cocoon Year:1985 Genre:Comedy Sci-Fi > ", "predict": "< Name:Cocoon Year:1985 Genre:Comedy Sci-Fi > "}
+{"label": "< Name:Apocalypse Now Year:1979 Genre:Drama War > ", "predict": "< Name:Scarface Year:1983 Genre:Action Crime Drama > "}
+{"label": "< Name:Wedding Singer, The Year:1998 Genre:Comedy Romance > ", "predict": "< Name:Clerks Year:1994 Genre:Comedy > "}
+{"label": "< Name:Big Year:1988 Genre:Comedy Fantasy > ", "predict": "< Name:Mighty Aphrodite Year:1995 Genre:Drama Romance > "}
+{"label": "< Name:Random Hearts Year:1999 Genre:Drama Romance > ", "predict": "< Name:Liberty Heights Year:1999 Genre:Drama Romance > "}
+{"label": "< Name:Message in a Bottle Year:1999 Genre:Romance > ", "predict": "< Name:Sister Act Year:1992 Genre:Comedy > "}
+{"label": "< Name:Mr. Smith Goes to Washington Year:1939 Genre:Drama > ", "predict": "< Name:Star Wars: Episode VI - Return of the Jedi Year:1983 Genre:Action Adventure Children's Fantasy Sci-Fi > "}
+{"label": "< Name:Airplane! Year:1980 Genre:Comedy > ", "predict": "< Name:Dark City Year:1998 Genre:Sci-Fi Thriller > "}
+{"label": "< Name:Ideal Husband, An Year:1999 Genre:Comedy > ", "predict": "< Name:Lord of the Rings: The Fellowship of the Ring Year:2001 Genre:Adventure Fantasy > "}
+{"label": "< Name:Kolya Year:1996 Genre:Comedy > ", "predict": "< Name:Babette's Feast Year:1987 Genre:Drama > "}
+{"label": "< Name:Naked Gun 2 1/2: The Smell of Fear, The Year:1991 Genre:Comedy > ", "predict": "< Name:Naked Gun 33 1/3: The Final Insult Year:1994 Genre:Comedy > "}
+{"label": "< Name:Back to the Future Year:1985 Genre:Comedy Sci-Fi > ", "predict": "< Name:Back to the Future Part III Year:1990 Genre:Comedy Sci-Fi > "}
+{"label": "< Name:Butterfly (La Lengua de las Mariposas) Year:2000 Genre:Drama War > ", "predict": "< Name:Shaft Year:2000 Genre:Action Crime > "}
+{"label": "< Name:Snow Falling on Cedars Year:1999 Genre:Drama > ", "predict": "< Name:Nurse Betty Year:2000 Genre:Comedy Thriller > "}
+{"label": "< Name:View to a Kill, A Year:1985 Genre:Action > ", "predict": "< Name:Die Hard 2: Die Harder Year:1990 Genre:Action > "}
+{"label": "< Name:South Park: Bigger, Longer and Uncut Year:1999 Genre:Animation Comedy > ", "predict": "< Name:Wayne's World Year:1992 Genre:Comedy > "}
+{"label": "< Name:Labyrinth Year:1986 Genre:Adventure Children's Fantasy > ", "predict": "< Name:Agnes of God Year:1985 Genre:Drama Mystery > "}
+{"label": "< Name:Footloose Year:1984 Genre:Drama > ", "predict": "< Name:Dances with Wolves Year:1990 Genre:Drama Romance Western > "}
+{"label": "< Name:Best in Show Year:2000 Genre:Comedy > ", "predict": "< Name:Rocky III Year:1982 Genre:Action Drama > "}
+{"label": "< Name:U-571 Year:2000 Genre:Action Thriller > ", "predict": "< Name:U-571 Year:2000 Genre:Action Thriller > "}
+{"label": "< Name:Star Trek: First Contact Year:1996 Genre:Action Adventure Sci-Fi > ", "predict": "< Name:Gattaca Year:1997 Genre:Drama Sci-Fi Thriller > "}
+{"label": "< Name:South Park: Bigger, Longer and Uncut Year:1999 Genre:Animation Comedy > ", "predict": "< Name:The Wedding Singer Year:1998 Genre:Comedy > "}
+{"label": "< Name:Mystery Science Theater 3000: The Movie Year:1996 Genre:Comedy Sci-Fi > ", "predict": "< Name:Airplane! Year:1980 Genre:Comedy > "}
+{"label": "< Name:Men in Black Year:1997 Genre:Action Adventure Comedy Sci-Fi > ", "predict": "< Name:Blade Runner Year:1982 Genre:Drama Sci-Fi > "}
+{"label": "< Name:Saving Grace Year:2000 Genre:Comedy > ", "predict": "< Name:Nurse Betty Year:2000 Genre:Comedy Thriller > "}
+{"label": "< Name:Willy Wonka and the Chocolate Factory Year:1971 Genre:Adventure Children's Comedy Fantasy > ", "predict": "< Name:Mrs. Doubtfire Year:1993 Genre:Comedy > "}
+{"label": "< Name:Third Man, The Year:1949 Genre:Mystery Thriller > ", "predict": "< Name:Apartment Year:1960 Genre:Comedy Romance > "}
+{"label": "< Name:Muppet Movie, The Year:1979 Genre:Children's Comedy > ", "predict": "< Name:Casablanca Year:1942 Genre:Drama Romance War > "}
+{"label": "< Name:Patriot, The Year:2000 Genre:Action Drama War > ", "predict": "< Name:Godfather III, The Year:1990 Genre:Action Crime Drama > "}
+{"label": "< Name:Road Trip Year:2000 Genre:Comedy > ", "predict": "< Name:Cable Guy, The Year:1996 Genre:Comedy > "}
+{"label": "< Name:Armed and Dangerous Year:1986 Genre:Comedy Crime > ", "predict": "< Name:Armed and Dangerous Year:1986 Genre:Comedy Crime > "}
+{"label": "< Name:Nothing But Trouble Year:1991 Genre:Adventure Comedy > ", "predict": "< Name:A Night at the Roxbury Year:1998 Genre:Comedy > "}
+{"label": "< Name:Dick Year:1999 Genre:Comedy > ", "predict": "< Name:Lady and the Tramp Year:1955 Genre:Animation Children's Musical > "}
+{"label": "< Name:Romy and Michele's High School Reunion Year:1997 Genre:Comedy > ", "predict": "< Name:Wolf Year:1994 Genre:Drama Thriller > "}
+{"label": "< Name:Marathon Man Year:1976 Genre:Thriller > ", "predict": "< Name:House on Haunted Hill Year:1999 Genre:Horror > "}
+{"label": "< Name:American Buffalo Year:1996 Genre:Drama > ", "predict": "< Name:Father of the Bride Year:1991 Genre:Comedy > "}
+{"label": "< Name:Red Violin, The (Le Violon rouge) Year:1998 Genre:Drama Mystery > ", "predict": "< Name:Aladdin and the King of Thieves Year:1996 Genre:Animation Children's Comedy Musical > "}
+{"label": "< Name:Terminator 2: Judgment Day Year:1991 Genre:Action Sci-Fi Thriller > ", "predict": "< Name:Twin Falls Idaho Year:1993 Genre:Comedy > "}
+{"label": "< Name:L.A. Confidential Year:1997 Genre:Crime Film-Noir Mystery Thriller > ", "predict": "< Name:Santa Clause, The Year:1994 Genre:Children's Comedy Fantasy > "}
+{"label": "< Name:Eyes Wide Shut Year:1999 Genre:Drama > ", "predict": "< Name:Fight Club Year:1999 Genre:Drama Thriller > "}
+{"label": "< Name:Beneath the Planet of the Apes Year:1970 Genre:Action Sci-Fi > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Drama Horror Mystery > "}
+{"label": "< Name:Being John Malkovich Year:1999 Genre:Comedy > ", "predict": "< Name:Crying Game, The Year:1992 Genre:Drama Mystery Romance Thriller > "}
+{"label": "< Name:Opposite of Sex, The Year:1998 Genre:Comedy Drama > ", "predict": "< Name:Dead Man's Chest Year:2006 Genre:Action Adventure Children's Fantasy > "}
+{"label": "< Name:Night of the Living Dead Year:1968 Genre:Horror Sci-Fi > ", "predict": "< Name:Gremlins 2: The New Batch Year:1990 Genre:Comedy Horror > "}
+{"label": "< Name:Angels and Insects Year:1995 Genre:Drama Romance > ", "predict": "< Name:Rob Roy Year:1995 Genre:Drama Romance War > "}
+{"label": "< Name:Rosencrantz and Guildenstern Are Dead Year:1990 Genre:Comedy Drama > ", "predict": "< Name:Saving Private Ryan Year:1998 Genre:Action Drama War > "}
+{"label": "< Name:Mrs. Doubtfire Year:1993 Genre:Comedy > ", "predict": "< Name:Billy Madison Year:1995 Genre:Comedy > "}
+{"label": "< Name:Grosse Pointe Blank Year:1997 Genre:Comedy Crime > ", "predict": "< Name:Dumb and Dumber Year:1994 Genre:Comedy > "}
+{"label": "< Name:Gladiator Year:2000 Genre:Action Drama > ", "predict": "< Name:Cool Hand Luke Year:1967 Genre:Drama > "}
+{"label": "< Name:Muriel's Wedding Year:1994 Genre:Comedy Romance > ", "predict": "< Name:Casablanca Year:1942 Genre:Drama Romance War > "}
+{"label": "< Name:Gladiator Year:2000 Genre:Action Drama > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Thriller > "}
+{"label": "< Name:South Park: Bigger, Longer and Uncut Year:1999 Genre:Animation Comedy > ", "predict": "< Name:Rushmore Year:1998 Genre:Comedy > "}
+{"label": "< Name:Hurricane, The Year:1999 Genre:Drama > ", "predict": "< Name:House of Sand and Fog Year:2003 Genre:Drama > "}
+{"label": "< Name:Honey, I Shrunk the Kids Year:1989 Genre:Adventure Children's Comedy Fantasy Sci-Fi > ", "predict": "< Name:War of the Worlds, The Year:1953 Genre:Sci-Fi > "}
+{"label": "< Name:Once Upon a Time in America Year:1984 Genre:Crime Drama Thriller > ", "predict": "< Name:City Slickers Year:1991 Genre:Comedy Western > "}
+{"label": "< Name:Me, Myself and Irene Year:2000 Genre:Comedy > ", "predict": "< Name:House of Mirth, The Year:2000 Genre:Drama > "}
+{"label": "< Name:Monty Python and the Holy Grail Year:1974 Genre:Comedy > ", "predict": "< Name:Superman III Year:1983 Genre:Action Adventure Sci-Fi > "}
+{"label": "< Name:Annie Hall Year:1977 Genre:Comedy Romance > ", "predict": "< Name:The Apartment Year:1960 Genre:Comedy Drama > "}
+{"label": "< Name:Force 10 from Navarone Year:1978 Genre:Action War > ", "predict": "< Name:Star Wars: Episode V - The Empire Strikes Back Year:1980 Genre:Action Adventure Sci-Fi > "}
+{"label": "< Name:Broken Hearts Club, The Year:2000 Genre:Drama > ", "predict": "< Name:Gladiator Year:2000 Genre:Action Drama > "}
+{"label": "< Name:Man from Laramie, The Year:1955 Genre:Western > ", "predict": "< Name:Mommie Dearest Year:1981 Genre:Biopic Drama > "}
+{"label": "< Name:My Man Godfrey Year:1957 Genre:Comedy > ", "predict": "< Name:Poseidon Adventure, The Year:1972 Genre:Action Adventure Drama > "}
+{"label": "< Name:Net, The Year:1995 Genre:Sci-Fi Thriller > ", "predict": "< Name:Far and Away Year:1992 Genre:Adventure Drama > "}
+{"label": "< Name:Stargate Year:1994 Genre:Action Adventure Sci-Fi > ", "predict": "< Name:Dances with Wolves Year:1990 Genre:Drama Western > "}
+{"label": "< Name:Star Wars: Episode V - The Empire Strikes Back Year:1980 Genre:Action Adventure Drama Sci-Fi War > ", "predict": "< Name:Casino Year:1995 Genre:Crime Drama Thriller > "}
+{"label": "< Name:Patton Year:1970 Genre:Drama War > ", "predict": "< Name:Rain Man Year:1988 Genre:Drama > "}
+{"label": "< Name:Bicycle Thief, The (Ladri di biciclette) Year:1948 Genre:Drama > ", "predict": "< Name:Titanic Year:1997 Genre:Drama Romance > "}
+{"label": "< Name:Erin Brockovich Year:2000 Genre:Drama > ", "predict": "< Name:28 Days Year:2000 Genre:Comedy > "}
+{"label": "< Name:Terminator 2: Judgment Day Year:1991 Genre:Action Sci-Fi Thriller > ", "predict": "< Name:A Simple Plan Year:1998 Genre:Drama > "}
+{"label": "< Name:Witness Year:1985 Genre:Drama Romance Thriller > ", "predict": "< Name:Witness Year:1985 Genre:Drama Romance Thriller > "}
+{"label": "< Name:My Fair Lady Year:1964 Genre:Musical Romance > ", "predict": "< Name:Sense and Sensibility Year:1995 Genre:Drama Romance > "}
+{"label": "< Name:Postino, Il (The Postman) Year:1994 Genre:Drama Romance > ", "predict": "< Name:Postino, Il (The Postman) Year:1994 Genre:Drama Romance > "}
+{"label": "< Name:Adventures of Priscilla, Queen of the Desert, The Year:1994 Genre:Comedy Drama > ", "predict": "< Name:Last Summer in the Hamptons Year:1995 Genre:Comedy Drama > "}
+{"label": "< Name:Eyes Without a Face Year:1959 Genre:Horror > ", "predict": "< Name:Bride of Frankenstein Year:1935 Genre:Horror > "}
+{"label": "< Name:Tigerland Year:2000 Genre:Drama > ", "predict": "< Name:Cool World Year:1992 Genre:Animation Comedy > "}
+{"label": "< Name:Meet the Parents Year:2000 Genre:Comedy > ", "predict": "< Name:Lord of the Rings: The Return of the King Year:2003 Genre:Action Adventure Fantasy > "}
+{"label": "< Name:Bug's Life, A Year:1998 Genre:Animation Children's Comedy > ", "predict": "< Name:Galaxy Quest Year:1999 Genre:Action Comedy Sci-Fi > "}
+{"label": "< Name:Seven Samurai (The Magnificent Seven) (Shichinin no samurai) Year:1954 Genre:Action Drama > ", "predict": "< Name:Alien³ Year:1992 Genre:Horror Sci-Fi Thriller > "}
+{"label": "< Name:Fox and the Hound, The Year:1981 Genre:Animation Children's > ", "predict": "< Name:Cruel Intentions Year:1999 Genre:Drama Romance > "}
+{"label": "< Name:Lethal Weapon 4 Year:1998 Genre:Action Comedy Crime Drama > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Drama Mystery > "}
+{"label": "< Name:Central Station (Central do Brasil) Year:1998 Genre:Drama > ", "predict": "< Name:Catch Me If You Can Year:2002 Genre:Action Comedy Crime Drama > "}
+{"label": "< Name:Thomas Crown Affair, The Year:1999 Genre:Action Thriller > ", "predict": "< Name:20 Dates Year:1998 Genre:Comedy > "}
+{"label": "< Name:Verdict, The Year:1982 Genre:Drama > ", "predict": "< Name:Dances with Wolves Year:1990 Genre:Drama Western > "}
+{"label": "< Name:Untouchables, The Year:1987 Genre:Action Crime Drama > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Drama Horror > "}
+{"label": "< Name:Much Ado About Nothing Year:1993 Genre:Comedy Romance > ", "predict": "< Name:Lawrence of Arabia Year:1962 Genre:Drama War > "}
+{"label": "< Name:Gladiator Year:2000 Genre:Action Drama > ", "predict": "< Name:Sunshine Year:2007 Genre:Drama Sci-Fi > "}
+{"label": "< Name:Lost in Space Year:1998 Genre:Action Sci-Fi Thriller > ", "predict": "< Name:Demolition Man Year:1993 Genre:Action Sci-Fi > "}
+{"label": "< Name:Herbie Goes Bananas Year:1980 Genre:Adventure Children's Comedy > ", "predict": "< Name:Karate Kid, Part II, The Year:1986 Genre:Action Adventure Drama > "}
+{"label": "< Name:Dial M for Murder Year:1954 Genre:Mystery Thriller > ", "predict": "< Name:Taxi Driver Year:1976 Genre:Drama Thriller > "}
+{"label": "< Name:Greatest Show on Earth, The Year:1952 Genre:Drama > ", "predict": "< Name:Roseanna Year:1993 Genre:Comedy Romance > "}
+{"label": "< Name:Princess Bride, The Year:1987 Genre:Action Adventure Comedy Romance > ", "predict": "< Name:Batman Returns Year:1992 Genre:Action Adventure Comedy Crime Drama > "}
+{"label": "< Name:Sixteen Candles Year:1984 Genre:Comedy > ", "predict": "< Name:Pet Sematary Year:1989 Genre:Horror > "}
+{"label": "< Name:Heaven Can Wait Year:1978 Genre:Comedy > ", "predict": "< Name:Heaven Can Wait Year:1978 Genre:Comedy > "}
+{"label": "< Name:Shallow Grave Year:1994 Genre:Thriller > ", "predict": "< Name:Cabinet of Dr. Caligari, The Year:1920 Genre:Horror > "}
+{"label": "< Name:My Cousin Vinny Year:1992 Genre:Comedy > ", "predict": "< Name:Amadeus Year:1984 Genre:Drama > "}
+{"label": "< Name:Dick Tracy Year:1990 Genre:Action Crime > ", "predict": "< Name:Sunset Blvd. Year:1950 Genre:Drama Film-Noir > "}
+{"label": "< Name:Logan's Run Year:1976 Genre:Action Adventure Sci-Fi > ", "predict": "< Name:Dark City Year:1998 Genre:Crime Drama Mystery Sci-Fi Thriller > "}
+{"label": "< Name:Men in Black Year:1997 Genre:Action Adventure Comedy Sci-Fi > ", "predict": "< Name:Brady Bunch Movie, The Year:1995 Genre:Comedy > "}
+{"label": "< Name:To Live (Huozhe) Year:1994 Genre:Drama > ", "predict": "< Name:Sleeping Beauty Year:1959 Genre:Children's Fantasy Musical Romance > "}
+{"label": "< Name:Jerry Maguire Year:1996 Genre:Drama Romance > ", "predict": "< Name:Apollo 13 Year:1995 Genre:Drama > "}
+{"label": "< Name:Airplane! Year:1980 Genre:Comedy > ", "predict": "< Name:Sweet Home Alabama Year:2002 Genre:Comedy Romance > "}
+{"label": "< Name:Astronaut's Wife, The Year:1999 Genre:Sci-Fi Thriller > ", "predict": "< Name:Austin Powers: The Spy Who Shagged Me Year:1999 Genre:Comedy > "}
+{"label": "< Name:Rushmore Year:1998 Genre:Comedy > ", "predict": "< Name:House of Yes Year:1997 Genre:Comedy Drama > "}
+{"label": "< Name:What's Eating Gilbert Grape Year:1993 Genre:Drama > ", "predict": "< Name:Dumb and Dumber Year:1994 Genre:Comedy > "}
+{"label": "< Name:Absent Minded Professor, The Year:1961 Genre:Children's Comedy Fantasy > ", "predict": "< Name:War of the Roses, The Year:1989 Genre:Comedy Drama > "}
+{"label": "< Name:West Side Story Year:1961 Genre:Musical Romance > ", "predict": "< Name:Willy Wonka & the Chocolate Factory Year:1971 Genre:Children's Musical > "}
+{"label": "< Name:Where the Heart Is Year:2000 Genre:Comedy Drama > ", "predict": "< Name:Where the Heart Is Year:2000 Genre:Comedy Drama > "}
+{"label": "< Name:While You Were Sleeping Year:1995 Genre:Comedy Romance > ", "predict": "< Name:Karate Kid III, The Year:1989 Genre:Action Adventure Drama > "}
+{"label": "< Name:Corrina, Corrina Year:1994 Genre:Comedy Drama Romance > ", "predict": "< Name:Little Women Year:1994 Genre:Drama > "}
+{"label": "< Name:Force of Evil Year:1948 Genre:Film-Noir > ", "predict": "< Name:Psycho Year:1960 Genre:Film-Noir Horror > "}
+{"label": "< Name:Mission: Impossible 2 Year:2000 Genre:Action Thriller > ", "predict": "< Name:Mission: Impossible Year:1996 Genre:Action Thriller > "}
+{"label": "< Name:Pawnbroker, The Year:1965 Genre:Drama > ", "predict": "< Name:Gandhi Year:1982 Genre:Drama > "}
+{"label": "< Name:Big Lebowski, The Year:1998 Genre:Comedy Crime Mystery Thriller > ", "predict": "< Name:Gone in 60 Seconds Year:2000 Genre:Action > "}
+{"label": "< Name:Sword in the Stone, The Year:1963 Genre:Animation Children's > ", "predict": "< Name:Pete's Dragon Year:1977 Genre:Adventure Animation Children's Musical > "}
+{"label": "< Name:League of Their Own, A Year:1992 Genre:Comedy Drama > ", "predict": "< Name:Amadeus Year:1984 Genre:Drama > "}
+{"label": "< Name:Godzilla Year:1998 Genre:Action Sci-Fi > ", "predict": "< Name:Fantastic Four Year:2005 Genre:Action Adventure Sci-Fi > "}
+{"label": "< Name:Star Trek: Generations Year:1994 Genre:Action Adventure Sci-Fi > ", "predict": "< Name:Raiders of the Lost Ark Year:1981 Genre:Action Adventure > "}
+{"label": "< Name:Terminator 2: Judgment Day Year:1991 Genre:Action Sci-Fi Thriller > ", "predict": "< Name:Terminator 2: Judgment Day Year:1991 Genre:Action Sci-Fi Thriller > "}
+{"label": "< Name:Minus Man, The Year:1999 Genre:Drama Mystery > ", "predict": "< Name:Belle Époque Year:1992 Genre:Drama Romance > "}
+{"label": "< Name:Goodbye Girl, The Year:1977 Genre:Comedy Romance > ", "predict": "< Name:Magnolia Year:1999 Genre:Drama > "}
+{"label": "< Name:Heathers Year:1989 Genre:Comedy > ", "predict": "< Name:Slacker Year:1991 Genre:Comedy Drama > "}
+{"label": "< Name:Eyes Wide Shut Year:1999 Genre:Drama > ", "predict": "< Name:Sixth Sense, The Year:1999 Genre:Thriller > "}
+{"label": "< Name:Back to the Future Part II Year:1989 Genre:Comedy Sci-Fi > ", "predict": "< Name:Hud Year:1963 Genre:Drama Western > "}
+{"label": "< Name:Desperate Measures Year:1998 Genre:Crime Drama Thriller > ", "predict": "< Name:Striptease Year:1996 Genre:Comedy Crime > "}
+{"label": "< Name:Abyss, The Year:1989 Genre:Action Adventure Sci-Fi Thriller > ", "predict": "< Name:Batman Returns Year:1992 Genre:Action Adventure Comedy Crime Drama > "}
+{"label": "< Name:Tarzan Year:1999 Genre:Animation Children's > ", "predict": "< Name:Lost World, The Year:1999 Genre:Adventure > "}
+{"label": "< Name:Drop Dead Fred Year:1991 Genre:Comedy Fantasy > ", "predict": "< Name:Fight Club Year:1999 Genre:Drama > "}
+{"label": "< Name:Outbreak Year:1995 Genre:Action Drama Thriller > ", "predict": "< Name:The Mummy Year:1999 Genre:Action Adventure Fantasy Horror > "}
+{"label": "< Name:Laura Year:1944 Genre:Crime Film-Noir Mystery > ", "predict": "< Name:Double Indemnity Year:1944 Genre:Crime Film-Noir Thriller > "}
+{"label": "< Name:Superman II Year:1980 Genre:Action Adventure Sci-Fi > ", "predict": "< Name:Mary Poppins Year:1964 Genre:Children's Musical > "}
+{"label": "< Name:Room with a View, A Year:1986 Genre:Drama Romance > ", "predict": "< Name:Gladiator Year:2000 Genre:Action Drama > "}
